@@ -14,7 +14,7 @@
         <xs:SimpleType>
             <xs:restriction base="xs:string">
                 <xs:enumeration value="Master"/>
-                <xs:enumeration value="ASIP"/>
+                <xs:enumeration value="ThirdParty"/>
                 <xs:enumeration value="CMI"/>
             </xs:restriction>
         </xs:SimpleType>
